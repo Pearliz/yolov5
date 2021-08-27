@@ -1,0 +1,7 @@
+
+train: ./SHWD/images/train
+val:  ./SHWD/images/val
+
+nc: 3
+
+names: ['person', 'head', 'helmet']
